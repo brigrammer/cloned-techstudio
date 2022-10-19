@@ -1,0 +1,634 @@
+body{
+    margin: 0;
+}
+.main{
+    background-color: white
+
+
+    ;
+
+    height: 70px;
+}
+.img{
+    width: 40px;
+    margin-left: 90px;
+    margin-top: 5px;
+}
+.h{
+    position: relative;
+    margin-left: 140px;
+    margin-top: -45px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    font-weight: 650;
+
+}
+.p{
+    margin-left: 140px;
+    margin-top: -6px;
+    font-weight: 100;
+    font-size: 1.1rem;
+    }
+    .tag{
+        display: flex;
+        justify-content: end;
+        margin-right: 150px;
+        margin-top: -45px;
+
+    }
+    .one{
+        margin-right: 50px;
+        text-decoration: none;
+    color: #007bff;
+    font-size: 1.1rem;
+        
+}
+.one:hover{
+    text-decoration: underline;
+    color:#6610f2;
+        
+}
+.two{
+    text-decoration: none;
+    color: #007bff;
+    font-size: 1.1rem;
+}
+.two:hover{
+    text-decoration: underline;
+    color:#6610f2;
+        
+}
+    .three{
+        margin-left: 50px;
+        text-decoration: none;
+    color: #007bff;
+    font-size: 1.1rem;
+       }
+    .three:hover{
+        text-decoration: underline;
+    color:#6610f2;
+        
+    }
+    .pic{
+        width: 100%;
+        padding-top: 20px;
+    }
+    .head{
+        margin-top: -600px;
+        position: relative;
+        width: 700px;
+        font-size: 40px;
+        margin-left: 100px;
+        color: white;
+        font-family: sans-serif;
+    }
+    .par{
+        width: 700px;
+        color:#EDE4E0;
+        font-family: sans-serif;
+        font-size: 18px;
+        margin-left: 100px;
+        line-height: 35px;
+        margin-top: -20px;
+    }
+    .enrol{
+        color: white;
+        font-family: sans-serif;
+        margin-top: 100px;
+        margin-left: 100px;
+        font-size: 20px;
+    }
+    .location{
+        display: flex;
+        flex-direction: row;
+        color: white;
+        font-family: sans-serif;
+    }
+    .loc{
+        width: 30px;
+        margin-top:-10px;
+        height: 10px;
+        
+        padding-left: 100px;
+    }
+    .l{
+        margin-top: -8px;
+        margin-left: 100px;
+    }
+    
+    .start{
+        display: flex;
+        flex-direction: row;
+        color: white;
+        font-family: sans-serif;
+
+    }
+    .dur{
+        display: flex;
+        flex-direction: row;
+        color: white;
+        font-family: sans-serif;
+    }
+    .date{
+        margin-top: 5px;
+        margin-left: 100px;
+    }
+    .time{
+        margin-top: -150px;
+        margin-left: 100px;
+    }
+    .oct{
+        margin-top: 5px;
+        margin-left: 195px;
+        padding-bottom: 150px;
+    }
+    .week{
+        margin-top: -150px;
+        margin-left: 220px;
+        
+ }
+ .p{
+    margin-bottom: 15px;
+ }
+ .form{
+    position: absolute;
+    display: flex;
+    align-items: stretch;
+    justify-content: right;
+    background-color:white;
+    width: 500px;
+    height: 450px;
+    margin-top: -520px;
+    margin-left: 800px;
+ }
+ .reg{
+    width: 450px;
+    font-family: sans-serif;
+    font-size: 22px;
+    
+    margin-top: 50px;
+ }
+.first{
+    width: 180px;
+    height: 50px;
+    box-shadow: black;
+}
+.first:hover{
+    box-shadow: #1D1CE5;
+}
+.last{
+    width: 180px;
+    height: 50px;
+    margin-left:20px ;
+    
+}
+.mail{
+    width: 385px;
+    height: 50px;
+}
+.number{
+    width: 385px;
+    height: 50px;
+}
+.get{
+    width: 390px;
+    height: 50px;
+    background-color: #007bff;
+    color: white;
+    border-color: #007bff;
+    cursor: pointer;
+}
+    .get:hover{
+        background-color: #1D1CE5;
+    }
+    .testimony{
+     background-color: whitesmoke;
+     height: 1100px;
+    }
+    .jo{
+        display: flex;
+        flex-direction: column;
+    }
+    .joseph{
+        position: relative;
+        border-radius: 500px;
+        width: 150px;
+        margin-top: 150px;
+        margin-left: 300px;
+    }
+    .peter{
+        position: absolute;
+        border-radius: 500px;
+        width: 150px;
+        margin-top:-400px;
+        margin-left: -300px;
+    }
+    .fri{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        line-height: 30px;
+        width:450px;
+         text-align: center;
+        margin-left: 120px;
+    }
+.ede{
+    position: absolute;
+    width: 440px;
+    margin-top: -240px;
+    line-height: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-right: 150px;
+    
+        
+}
+.ph{
+    margin-left: 160px;
+    margin-top: -10px;
+    font-size: medium;
+    
+    }
+.end{
+    font-weight: lighter;
+}
+.io{
+    
+    line-height: 10px;
+    margin-left: 280px;
+    color: red;
+    margin-top: -10px;
+}
+.ter{
+    display: flex;
+    justify-content: end;
+}
+
+.er{
+    text-align: center;
+    font-family: sans-serif;
+    margin-right: -300px;
+    margin-top: -50px;
+    font-size: medium;
+}
+.ware{
+    font-weight: lighter;
+}
+    .com{
+        
+        line-height: 10px;
+        margin-right: 300px;
+        color: red; 
+        margin-top: -20px;
+        font-family: inherit;
+    }
+   
+    
+    .ril{
+        border-radius: 1000px;
+        width: 150px;
+        margin-top: 30px;
+        margin-left: 600px;
+        align-items: center;
+        padding-bottom: -100px;
+    }
+    .bless{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        line-height: 30px;
+        width:420px;
+        
+        text-align: center;
+        margin-left:440px;
+        margin-bottom: 200px;
+         }
+         .bola{
+        text-align: center;
+            font-family: sans-serif;
+    margin-left: -50px;
+    margin-top: -200px;
+    font-size: medium;
+         }
+         .dev{
+            font-weight: lighter;  
+         }
+         .ot{
+            text-align: center;
+        line-height: 10px;
+        margin-right: 3px;
+        padding-right: 10px;
+        color: red;
+        margin-top: -10px;  
+         }
+        
+         .achieve{
+            display: flex;
+            flex-direction:row;
+            margin-top: 50px;
+         }
+
+         .cw{
+            margin-left: 200px;
+            border-radius: 100px;
+            
+         }
+         .weeks{
+            margin-bottom: 50px;
+            margin-left: 220px;
+            font-family: sans-serif;
+            
+         }
+         .camp{
+            width: 360px;
+            margin-left: 100px;
+            line-height: 20px;
+            font-family: sans-serif;
+            text-align: center;
+            margin-top: -40px;
+            
+         }
+         .skill{
+            margin-left: 100px;
+            border-radius: 100px;
+         }
+         .new{
+            margin-left: 100px;
+            font-family: sans-serif;
+         }
+         .sites{
+            width: 360px;
+            margin-left: 20px;
+            line-height: 20px;
+            font-family: sans-serif;
+            text-align: center;
+            margin-top: -10px;
+         }
+         .exp{
+            margin-left: 50px;
+            border-radius: 100px;
+         }
+         .be{
+            margin-left: 90px;
+            font-family: sans-serif;
+         }
+         .career{
+            width: 380px;
+            margin-left: 25px;
+            line-height: 20px;
+            font-family: sans-serif;
+            text-align: center;
+            margin-top: -10px;
+         }
+         .webb{
+            display: flex;
+            justify-content: center;
+         }
+         .butt{
+            display: flex;
+            justify-content: center;
+            margin-left: 650px;
+            background-color: #007bff;
+            border: none;
+            width: 45px;
+            margin-top: 10px;
+            height: 5px;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+         }
+         .program{
+            background-color: whitesmoke;
+            padding-top: 20px;
+            height: 550px;
+            
+         }
+            
+
+         .group{
+            position:absolute;
+            display: flex;
+            
+            width: 550px;
+            height: 340px;
+            margin-top: -320px;
+            margin-left: 700px;
+            padding-top: 10px;
+         }
+        .teach{
+            position: relative;
+            margin-right: 500px;
+            width: 550px;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            line-height: 20px;
+            margin-left: 100px;
+        }
+        .age{
+            margin-left: 100px;
+            width: 200px;
+            background-color: #007bff;
+            border: none;
+            height: 50px;
+            margin-bottom: 300px;
+            color: white;
+            font-size: medium;
+            cursor: pointer;
+        }
+        .age:hover{
+            background-color: #1D1CE5;
+        }
+        .st{
+            text-align: center;
+            font-family: sans-serif;
+            font-size: large;
+            padding-top: 40px;
+
+        }
+        .free{
+text-align: center;
+width: 600px;
+margin-left: 400px;
+font-family: sans-serif;
+padding-top: 10px;
+line-height: 25px;
+
+        }
+        .home{
+            margin-left: 100px;
+            width: 1150px;
+
+        }
+        .fund{
+            line-height: 25px;
+            padding-top: 80px;
+            margin-left: 80px;
+            font-family: sans-serif;
+            font-weight: lighter;
+            padding-left: 20px;
+            
+        }
+        .ence{
+
+height: 1450px;
+        }
+        .boot{
+width: 600px;
+        }
+        .mas{
+            width: 600px;
+        }
+        .bu{
+            width: 600px;
+        }
+        .git{
+            width: 600px;
+        }
+        .render{
+            
+        
+    line-height: 25px;
+            padding-top: 80px;
+            
+            font-family: sans-serif;
+            font-weight: lighter;
+            margin-right: 95px;
+            margin-left: 15px;
+        }
+        .serve{
+            width: 600px;
+            margin-top: -10px;
+        }
+        .need{
+            width: 600px;
+        }
+        .deploy{
+            width: 600px;
+        }
+        .content{
+            display: flex;
+            flex-direction: row;
+        }
+        .course{
+
+            margin-top: -2px;
+            margin-left: 100px;
+            font-family: sans-serif;
+            font-size: medium;
+        }
+        .gram{
+            margin-left: 100px;
+            width: 200px;
+            background-color: #007bff;
+            border: none;
+            height: 50px;
+            margin-bottom:100px;
+            color: white;
+            font-size: medium;
+            cursor: pointer;
+            margin-top: 10px;
+        }
+        .gram:hover{
+            background-color: #1D1CE5;
+        }
+        .state{
+            background-color: whitesmoke;
+            height: 850px;
+        }
+        .art{
+            text-align: center;
+            padding-top: 50px;
+        }
+        .ton{
+            display: flex;
+            justify-content: center;
+            margin-left: 650px;
+            background-color: #007bff;
+            border: none;
+            width: 45px;
+            margin-top: 10px;
+            height: 5px;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+        .dio{
+            width: 800px;
+            margin-left: 100px;
+            margin-top: 30px;
+            position: relative;
+            height: 680px;
+        }
+.facility{
+    background-color: white;
+    position: absolute;
+    margin-top: -570px;
+    margin-left:720px;
+    font-family: sans-serif;
+    line-height: 25px;
+    text-align: justify;
+    padding-left: 40px;
+    padding-right: 60px;
+    padding-bottom: 50px;
+    border-radius: 10px;
+    box-shadow: gray;
+}
+.world{
+    margin-bottom: -10px;
+    line-height: none;
+    padding-top: 40px;
+    
+    
+}
+.studio{
+    width: 400px;
+}
+.cil{
+    margin-top:-10px ;
+}
+.top{
+    margin-top: -10px;
+}
+
+.ho:hover{
+    text-decoration: none;
+    color: black;
+}
+.rate{
+    width: 600px;
+    height: 600px;
+    margin-top: 50px;
+    margin-left: 70px;
+}
+.sup{
+    background-color:white;
+    margin-left: 280px;
+
+    
+    margin-top: -620px;
+}
+.some{
+    display: flex;
+            justify-content: center;
+            margin-left: 650px;
+            background-color: #007bff;
+            border: none;
+            width: 45px;
+            margin-top: 10px;
+            height: 5px;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.tech{
+
+margin-left: 450px;
+font-family: sans-serif;
+font-size
+:30px
+}
+.topp{
+width: 520px;
+margin-left: 420px;
+line-height: 25px;
+font-family: sans-serif;
+}
+.ted{
+    width: 520px;
+margin-left: 400px;
+line-height: 25px;
+font-family: sans-serif;
+}
+.por{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
