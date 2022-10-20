@@ -151,7 +151,7 @@ body{
     margin-bottom: 15px;
  }
  .form{
-    position: absolute;
+    position: relative;
     display: flex;
     align-items: stretch;
     justify-content: right;
@@ -627,8 +627,395 @@ margin-left: 400px;
 line-height: 25px;
 font-family: sans-serif;
 }
-.por{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+
+
+.ut{
+
+
+    background-color: #007bff;
+    border: none;
+    width: 45px;
+    margin-left: 680px;
+    height: 5px;
+    margin-bottom: 10px;
+    
 }
+.lent{
+    width: 600px;
+    height: 350px;
+    
+    position: relative;
+    margin-left: 100px;
+    margin-top: -150px;
+    padding-top: 100px;
+}
+    
+.conn{
+    width: 620px;
+    font-family: sans-serif;
+    text-align: center;
+    margin-left: 400px;
+    margin-bottom: 300px;
+    position: relative;
+    margin-bottom: 100px;
+}
+.reer{
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 50px;
+}
+.so{
+    margin-left: 100px;
+    width: 200px;
+    background-color: #007bff;
+    border: none;
+    height: 50px;
+    margin-bottom:100px;
+    color: white;
+    font-size: medium;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-left: -5px;
+}
+.tem{
+    width: 500px;
+}
+.build{
+
+line-height: 25px;
+font-family: sans-serif;
+margin-left: 750px;
+margin-top: -340px;
+height: 300px;
+}
+.bri{
+    background-color:whitesmoke;
+    height: 260px;
+    position: relative;
+}
+.wan{
+    height: 1350px;
+}
+.ada{
+    background-color: #007bff;
+    
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 300px;
+    width: 800px;
+    height: 150px;
+    border-radius: 10px;
+}
+.ll{
+    
+    width: 200px;
+    background-color: whitesmoke;
+    border: none;
+    height: 50px;
+    margin-left: 120px;
+    margin-top: -30px;
+
+    color: #007bff;
+    font-size: medium;
+    cursor: pointer;
+    
+    
+}
+.obi{
+    margin-left: 70px;
+    margin-top: 50px;
+    color: white;
+    font-weight: lighter;
+    font-family: sans-serif;
+    line-height: 30px;
+}
+.ll:hover{
+background-color: #1D1CE5;
+color: black;
+}
+.ns{
+    background-color: #007bff;
+    border: none;
+    width: 45px;
+    margin-left: 700px;
+    
+    height: 5px;
+    }
+    .love{
+        width: 620px;
+        font-family: sans-serif;
+        line-height: 30px;
+        margin-left: 400px;
+    }
+    .ked{
+        margin-left: 520px;
+        margin-top: 100px;
+    }
+    .gain{
+        width: 530px;
+        line-height: 25px;
+        font-family: sans-serif;
+        margin-top: 100px;
+        margin-left: 50px;
+        position: relative;
+    }
+.pet{
+    
+    width: 200px;
+    background-color: #007bff;
+    border: none;
+    height: 50px;
+    
+    color: white;
+    font-size: medium;
+    cursor: pointer;
+    
+}
+.ind{
+    width: 530px;
+    line-height: 25px;
+    font-family: sans-serif;
+    position: absolute;
+    margin-left: 700px;
+    margin-top:-960px;
+}
+.vanilla{
+    width: 530px;
+    line-height: 25px;
+    font-family: sans-serif;
+    position: absolute;
+    background-color: whitesmoke;
+    height: 700px;
+    margin-left: 100px;
+    margin-top: 100px;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: -10px;
+}
+.mater{
+    background-color: #007bff;
+    height: 900px;
+    margin-top: 40px;
+}
+.sunday{
+    position: absolute;
+    height: 700px;
+    width: 400px;
+    background-color: red;
+    margin-left: 800px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 100px;
+    color: white;
+    font-size: larger;
+}
+
+.mentor{
+    width:400px;
+    background-color: #007bff;
+    border: none;
+    height: 50px;
+    
+    color: white;
+    font-size: medium;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: -30px;
+}
+.mentor:hover{
+    background-color: #1D1CE5;
+}
+.footer{
+
+    
+    height: 230px;
+    background-color:black;
+}
+.ve{
+    width: 30px;
+    margin-top: 50px;
+    margin-left: 120px;
+}
+.alex{
+   margin-bottom: -30px;
+    font-family: sans-serif;
+    font-size: larger;
+    color: whitesmoke;
+}
+.tyra{
+    
+    width: 250px;
+    margin-left: -40px;
+    margin-top: 35px;
+    color: whitesmoke;
+     font-family: sans-serif;
+    font-size: medium;
+
+    
+}
+.lesi{
+    
+margin-top: -45px;
+margin-left: 160px;
+}
+.derrick{
+
+}
+.emma{
+    width: 400px;
+    height: 50px;
+    margin-left:550px;
+    margin-top: -15px;
+    margin-bottom: 10px;
+    background-color: whitesmoke;
+    border: none;
+    border-radius: 5px;
+}
+.emeka{
+    width: 400px;
+    height: 55px;
+    margin-left: 550px;
+    background-color: #007bff;
+    color: whitesmoke;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.emeka:hover{
+    background-color: #1D1CE5;
+}
+.tt{
+    margin-left: 550px;
+    margin-top: -100px;
+    font-family: sans-serif;
+    font-size: larger;
+    color: whitesmoke;
+}
+.insta{
+
+}
+
+.soci{
+    text-align: end;
+    margin-top: -150px;
+    margin-right: 200px;
+    font-family: sans-serif;
+    color: whitesmoke;
+    font-weight: lighter;
+}
+.media{
+    display: flex;
+    justify-content: end;
+    
+    margin-right: 300px;
+    
+}
+.bird{
+   width: 200px;
+}
+
+.app{
+    position: fixed;
+    bottom: 30px;
+    right: 20px;
+    border-radius: 70px;
+}
+.whatsapp{
+    position:fixed;
+}
+.whatsapp a{
+    display:block;
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    position: fixed;
+    background-color: green;
+    bottom: 30px;
+    right: 20px;
+}
+.whatsapp i{
+    color: white;
+    padding: 15px;
+    font-size: 2.0em;
+}
+
+.footer{
+    display: flex;
+    background-color: black;
+    color: whitesmoke;
+    justify-content: space-around;
+    flex-direction: row;
+    padding-top: 80px;
+
+}
+.footer-left img{
+    width: 40px;
+    padding: 3px;
+    height: 40px;
+}
+.derr{
+    display: flex;
+  
+    width: 300px;
+    height: 45px;
+   
+}
+.derr h3{
+    
+    margin-left: 5px;
+    width: 200px;
+    
+
+}
+
+
+.her{
+    margin-top:-3px;
+    margin-left: 6px;
+    line-height: 30px;
+
+}
+.footer-center{
+    
+    width: 500px;
+}
+.footer-center h3{
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.footer-center input{
+    width:450px ;
+    height: 50px;
+    margin-top: -10px;
+    border-radius: 5px;
+}
+.footer-center button{
+    width:455px ;
+    height: 55px;
+    margin-top: 10px;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: whitesmoke;
+    font-weight: lighter;
+    cursor: pointer;
+}
+.footer-center button:hover{
+    background-color: #1D1CE5;
+}
+.ig{
+    font-size: 2.0em;
+    color: white;
+
+}
+.book{
+    font-size: 2.0em;
+    color: white;
+    margin-left: 10px;
+}
+.bird{
+    font-size: 2.0em;
+    color: white; 
+    margin-left: 10px;  
+}
+
